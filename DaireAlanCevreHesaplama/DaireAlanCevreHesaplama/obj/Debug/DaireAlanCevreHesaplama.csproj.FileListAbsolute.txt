@@ -1,0 +1,11 @@
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\bin\Debug\DaireAlanCevreHesaplama.exe.config
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\bin\Debug\DaireAlanCevreHesaplama.exe
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\bin\Debug\DaireAlanCevreHesaplama.pdb
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\obj\Debug\DaireAlanCevreHesaplama.csproj.AssemblyReference.cache
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\obj\Debug\DaireAlanCevreHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\obj\Debug\DaireAlanCevreHesaplama.Form1.resources
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\obj\Debug\DaireAlanCevreHesaplama.Properties.Resources.resources
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\obj\Debug\DaireAlanCevreHesaplama.csproj.GenerateResource.cache
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\obj\Debug\DaireAlanCevreHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\obj\Debug\DaireAlanCevreHesaplama.exe
+C:\Users\atakan.sakaoglu\source\repos\DaireAlanCevreHesaplama\DaireAlanCevreHesaplama\obj\Debug\DaireAlanCevreHesaplama.pdb
